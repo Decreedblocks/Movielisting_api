@@ -55,8 +55,8 @@ The goal of this capstone project is to develop a **Movie Listing API** using **
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/iamukn/movie-listing-api.git
-   cd movie-listing-api
+   git clone https://github.com/Decreedblocks/Movielisting_api
+   cd Movielisting_api
    ```
 
 2. **Create and activate a virtual environment:**
